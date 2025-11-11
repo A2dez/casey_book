@@ -1,0 +1,30 @@
+---
+title: "contacts"
+format: html
+---
+
+## 
+
+Eddie Cantwell
+
+-   articles about leather factory
+
+-   published in Abbeyside Parish News
+
+**Brian Kennedy**
+
+Characters and Closures
+
+writerbk\@gmail.com
+
+History Contacts
+
+-   Fergus Robson
+
+-   Tim Murtagh
+
+-   Will Fraher
+
+-   Irish History Podcast
+
+-   Gumpers
